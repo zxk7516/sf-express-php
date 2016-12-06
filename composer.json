@@ -1,0 +1,13 @@
+{
+    "name": "zxk/sf-express",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "zxk7516",
+            "email": "zxk7516@foxmail.com"
+        }
+    ]
+}
