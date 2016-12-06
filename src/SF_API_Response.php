@@ -1,11 +1,13 @@
 <?php
+namespace zxk\sf_express;
+
 /**
  * Created by PhpStorm.
  * User: 曾祥康
  * Date: 2016/12/6 0006
  * Time: 11:20
  */
-class SF_API_Response  extends \GuzzleHttp\Psr7\Response {
+class SF_API_Response {
 
 const EX_CODE_OPENAPI_0100='输入校验异常';
 const EX_CODE_OPENAPI_0101=' APPID 不存在';
